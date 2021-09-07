@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559391635 source:f:\rock paper sissor\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
